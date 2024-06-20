@@ -1,0 +1,7 @@
+backtest
+scripts
+websocket
+*-1M.csv
+*-15m.csv
+*-5m.csv
+*-1m.csv

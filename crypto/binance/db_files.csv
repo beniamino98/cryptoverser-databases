@@ -1,0 +1,8 @@
+id,api,pair,interval,from,to,n,link
+BTCUSDT-spot-4h,spot,BTCUSDT,4h,2018-01-01T00:00:00Z,2024-03-22T12:00:00Z,13620,https://drive.google.com/file/d/1AeCMwiMsIlc9xyKSuvjoUXu1v91zabzd/view?usp=drivesdk
+BTCUSDT-spot-1d,spot,BTCUSDT,1d,2018-01-01T00:00:00Z,2024-03-22T00:00:00Z,2273,https://drive.google.com/file/d/1vZQsDlglxbA43L5eABH7aird6NcRHAlN/view?usp=drivesdk
+BTCUSDT-spot-1w,spot,BTCUSDT,1w,2018-01-01T00:00:00Z,2024-03-18T00:00:00Z,325,https://drive.google.com/file/d/1SOSeQjolulg3BorlX2X4_kXiRQFMjCq4/view?usp=drivesdk
+BTCUSDT-spot-1h,spot,BTCUSDT,1h,2017-12-31T23:00:00Z,2024-03-22T15:00:00Z,54423,https://drive.google.com/file/d/1iHYemHKxAkNk7h6_fdmsVeEak6g4cTE1/view?usp=drivesdk
+BTCUSDT-spot-5m,spot,BTCUSDT,5m,2017-12-31T23:00:00Z,2024-03-22T15:15:00Z,635931,https://drive.google.com/file/d/1d6fbGbY29y4tIsVnirPA0bPMFYDO9T25/view?usp=drivesdk
+BTCUSDT-spot-30m,spot,BTCUSDT,30m,2017-12-31T23:00:00Z,2024-03-22T15:00:00Z,108829,https://drive.google.com/file/d/1SYEJj2kRu5tcHyXDE6xq9Bo9o-ttZEPJ/view?usp=drivesdk
+BTCUSDT-spot-15m,spot,BTCUSDT,15m,2017-12-31T23:00:00Z,2024-03-22T15:15:00Z,217646,https://drive.google.com/file/d/1w6P1hkt0AY0fGNdtsXrIwe7AI8lS23x-/view?usp=drivesdk
